@@ -1,0 +1,9 @@
+Muitas vezes, a implementação da Informação em organizações ocorre
+de forma evolutiva e gradual. Inicialmente, apenas determinadas funções são
+automatizadas. Depois, novas funções vão sendo informatizadas.
+Se cada uma das funções for
+informatizada de forma separada, sem
+considerar a informatização das demais
+funções, pode ocorrer que, para cada uma
+das funções, seja criado um arquivo
+separado de produtos 
