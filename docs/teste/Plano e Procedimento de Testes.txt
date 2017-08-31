@@ -1,0 +1,3 @@
+Uma atividade essencial no desenvolvimento de todo e qualquer projeto é o planejamento, um plano tem o papel semelhante ao de um ‘mapa’, sem um mapa, um plano ou qualquer outra fonte de informação similar, você não conhecerá seus objetivos, nem aonde quer chegar e jamais terá a certeza de ter alcançado sua meta. 
+
+O plano de teste contém um conjunto de informações que permite ao gerente de projeto não apenas coordenar as atividades de testes de um projeto, mas também monitorar seu progresso e verificar se o executado está em conformidade com o planejado.
