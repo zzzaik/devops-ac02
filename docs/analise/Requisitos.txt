@@ -1,0 +1,4 @@
+Uma função é descrita como um conjunto de entradas, seu comportamento e as saídas. Os requisitos funcionais podem ser cálculos, detalhes técnicos, manipulação de dados e de processamento e outras funcionalidades específicas que definem o que um sistema, idealmente, será capaz de realizar.
+
+
+Em alguns casos, um analista de requisitos gera casos de uso após a coleta e validação de um conjunto de requisitos funcionais. A hierarquia de requisitos funcionais é: usuário / pedido das partes interessadas - característica> -> caso de uso -> regra de negócio. 
