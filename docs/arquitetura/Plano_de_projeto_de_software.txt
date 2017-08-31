@@ -2,6 +2,6 @@ Um plano de projeto inclui as ações necessárias para definir, coordenar e int
 O conteúdo do plano irá variar dependendo da área de aplicação e complexidade do projeto. A elaboração do plano antecede a 
 etapa de planejamento de projeto.
 
-Design de Software (do inglês Software design) é a parte da engenharia de software que se encarrega de fazer todo o planejamento 
+Design de Software é a parte da engenharia de software que se encarrega de fazer todo o planejamento 
 anterior ao desenvolvimento, incluindo a definição da arquitetura do software, e transformar tudo em um documento ou conjunto de 
 documentos capazes de serem interpretados diretamente pelo programador.
